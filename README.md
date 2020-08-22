@@ -1,1 +1,3 @@
-# helm_curso_kubernetes
+Curso kubernetes
+
+Repositório para pós web unipê
